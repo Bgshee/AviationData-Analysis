@@ -10,3 +10,7 @@ Manufacturers with fewer fatal accidents are recommended for further exploration
 Invest in aircraft that have a low accident rate: Prefer types of aircraft with higher safety records.
 Choose Reliable Manufacturers: Opt for models made by firms with fewer high-severity collisions.
 Operational Costs: Analyze operational and maintenance costs to complement the safety analysis. Additional: More specific information about the experience of the flight crew, the maintenance history, and the routes flown would be enlightening.
+![Screenshot (367)](https://github.com/user-attachments/assets/891279ee-cd47-4146-8718-124ea64c1a76)
+![Screenshot (366)](https://github.com/user-attachments/assets/cd02fc64-f40a-4549-9b1f-da6fbe7db46d)
+![Screenshot (365)](https://github.com/user-attachments/assets/589fb51b-aa79-48b1-a7e3-0e0f3261e2f7)
+
